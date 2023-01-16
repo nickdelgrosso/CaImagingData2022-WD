@@ -1,0 +1,4 @@
+outs:
+- md5: d496f7135e57e33dd0c9e8f8ce62bfe3
+  size: 11
+  path: mydata.txt
