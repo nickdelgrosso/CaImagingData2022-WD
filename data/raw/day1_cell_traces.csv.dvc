@@ -1,0 +1,4 @@
+outs:
+- md5: 7ccf88ec7bb6d4ba5ffd884cc526282d
+  size: 1341058
+  path: day1_cell_traces.csv

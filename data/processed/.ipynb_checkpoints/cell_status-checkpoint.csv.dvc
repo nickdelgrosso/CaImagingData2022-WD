@@ -1,0 +1,4 @@
+outs:
+- md5: 318af43a42879729a1e6955023966d64
+  size: 220
+  path: cell_status-checkpoint.csv

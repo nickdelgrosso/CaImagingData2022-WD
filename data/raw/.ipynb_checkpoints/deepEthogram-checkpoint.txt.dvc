@@ -1,0 +1,4 @@
+outs:
+- md5: e0f7bee53569f2f1ae6b8c8470d785bf
+  size: 75
+  path: deepEthogram-checkpoint.txt
