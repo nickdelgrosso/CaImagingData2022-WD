@@ -1,2 +1,5 @@
 [core]
     autostage = true
+    remote = labserver
+['remote "labserver"']
+    url = ssh://root@139.177.178.78/ca_experiment
