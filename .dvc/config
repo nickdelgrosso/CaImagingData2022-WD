@@ -4,4 +4,4 @@
 ['remote "labserver"']
     url = ssh://139.177.178.78/ca_experiment
     ask_password = true
-    ask_user = true
+    user = root
