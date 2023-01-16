@@ -2,5 +2,5 @@
     autostage = true
     remote = labserver
 ['remote "labserver"']
-    url = ssh://root@139.177.178.78/ca_experiment
+    url = ssh://139.177.178.78/ca_experiment
     ask_password = true
